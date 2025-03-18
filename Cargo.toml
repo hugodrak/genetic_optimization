@@ -1,0 +1,11 @@
+[package]
+name = "genetic-optimization"
+version = "0.1.0"
+edition = "2021"
+authors = ["Hugo <hugodrakeskar@gmail.com"]
+license = "MIT"
+description = "A Rust project demonstrating a genetic algorithm for TSP."
+repository = "https://github.com/YourGitHubUsername/genetic-optimization"
+
+[dependencies]
+rand = "0.8"
